@@ -7,6 +7,7 @@
 ## Deskripsi Umum
 
 ## Source Code
+```
 #include <iostream>
 using namespace std;
 
@@ -52,6 +53,7 @@ int main()
  }
   return 0;
 }
-
+```
 ## Output
+
 <img src="Output 1.1.png">
