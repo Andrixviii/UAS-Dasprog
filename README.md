@@ -13,7 +13,14 @@ using namespace std;
 
 int main()
 {
- int arr[2][2], transpose[2][2], baris, kolom;
+ int e1,e2;
+ cout << "Masukan Elemant ke-1= ";
+ cin >> e1;
+ cout << "Masukan Elemant ke-2= ";
+ cin >> e2;
+	
+ cout << "\n";
+ int arr[e1][e2], transpose[e1][e2], baris, kolom;
  
  cout << "baris: "; cin >> baris;
  cout << "kolom: "; cin >> kolom;
