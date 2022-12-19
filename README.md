@@ -1,8 +1,8 @@
 # Ujian Akhir Semester 
-<br>Mata Kuliah 	: DASAR PEMROGRMAN
-<br>Nama :MUHAMAD NOPID ANDRIANSYAH
-<br>NIM		:	1227050091
-<br>Jurusan		:[Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
+<br>Mata Kuliah&ensp;&ensp; : Dasar Pemrograman
+<br>Nama&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp;: MUHAMAD NOPID ANDRIANSYAH
+<br>NIM&emsp;&emsp;&emsp;&emsp;&nbsp; : 1227050091
+<br>Jurusan&emsp;&emsp;&emsp;: [Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/)d.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
 
 ## Deskripsi Umum
 ``
