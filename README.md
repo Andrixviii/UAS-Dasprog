@@ -6,6 +6,9 @@
 
 ## Deskripsi Umum
 
+Pada ujian akhir semester di berikan soal di mana kita di minta mengimput banyak kolom, baris dan banyak data, lalu menukar kolom menjadi baris dan baris manjadi kolom. Cara kerjanya adalah dengan membuat beberapa variable untuk memasukan  banyaknya data pada array dan membuat variable untuk menentukan  jumlah kolom dan barisnya.
+Selajutnya akan mengunakan for looping untuk memasuaka nilai data dan outut nilai data, for juga di gunakan untuk menyimpan variable transpose pada variable arr yang nanatinya akan melakukan program tukar baris dan kolom. Kemudian jika program di run atau dijalankan akan  menampilkan output berupa program nilai yang telah di ditukar baris dan kolomnya.
+
 ## Source Code
 ```
 #include <iostream>
